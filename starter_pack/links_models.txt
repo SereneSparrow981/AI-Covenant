@@ -1,0 +1,6 @@
+# Download Links & Mirrors for Preserved Models
+- LLaMA 3: [Meta AI release page]
+- Mistral: [Hugging Face repository]
+- Falcon 180B: [TII release page]
+- Pythia Suite: [EleutherAI GitHub]
+- Stable Diffusion XL: [Stability AI release]
